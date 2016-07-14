@@ -1,0 +1,6 @@
+{
+  "name": "Websitetest",
+  "tagline": "Practicando para construir mi primera website",
+  "body": "echo \"# WEBSITETEST\" >> README.md\r\ngit init\r\ngit add README.md\r\ngit commit -m \"first commit\"\r\ngit remote add origin https://github.com/JTRsch/WEBSITETEST.git\r\ngit push -u origin master\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
